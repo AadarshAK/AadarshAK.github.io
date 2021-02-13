@@ -3,9 +3,10 @@ var photo, ak;
 var f1, f2, f3, f4, f5, f6, f7, f8, f9, f10, f11, f12, f13, f14, f15, f16, f17, f18, f19, f20, f21;
 var breakfast, b1, b2 , b3, b4,b5,b6;
 var IndiaImage,fState=0,bState=0,dState=0;
+var wh;
 
 function preload() {
-    photo = loadImage("AK47.jpg");
+    photo = loadImage("WHafood.png");
     Bimage = loadImage("download.jpeg");
 }
 
