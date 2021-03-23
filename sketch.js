@@ -196,22 +196,22 @@ fState=21
     }
 
     if (dinner === 1) {
-        dinner = food; 
+        dinner = "Pasta Bolognese"; 
         dState=1;
     }
 
     if (dinner === 2) {
-        dinner = "Maggi";
+        dinner = "Noodles";
         dState=2;
     }
 
     if (dinner === 3) {
-        dinner = food;
+        dinner = "Chapati with Paneer Curry";
         dState=3;
     }
 
     if (dinner === 4) {
-        dinner = "Maggi";
+        dinner = "Chicken Clear Soup";
         dState=4;
     }
 
